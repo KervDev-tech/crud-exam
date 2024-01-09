@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #2E2C2C;
+    box-sizing: border-box;
+}
+.main{
+    margin: 50px auto;
+    width: 500px;
+}
